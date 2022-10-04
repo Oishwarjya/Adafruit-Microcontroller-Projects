@@ -8,7 +8,7 @@ namespace pycsharp
     {
         static void Main(string[] args)
         {
-            string FileName = "scripts.py"; 
+            string FileName = "buttons.py"; 
             ProcessStartInfo ProcessInfo = new ProcessStartInfo("python3"); 
 
             // make sure we can read the output from stdout 

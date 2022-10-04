@@ -1,6 +1,9 @@
 import sys
-import json
+import light
+import os
 
+
+# import json
 # import requests
 
 """
@@ -13,5 +16,5 @@ print(json.dumps(resp))
 
 sys.stdout.flush()
 """
-
+os.system("python buttons.py com5")
 print("Hello from Python!")
