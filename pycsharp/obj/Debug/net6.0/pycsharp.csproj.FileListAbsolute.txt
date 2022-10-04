@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\bin\Debug\net6.0\pycsharp.exe
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\bin\Debug\net6.0\pycsharp.deps.json
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\bin\Debug\net6.0\pycsharp.runtimeconfig.json
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\bin\Debug\net6.0\pycsharp.dll
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\bin\Debug\net6.0\pycsharp.pdb
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\obj\Debug\net6.0\pycsharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\obj\Debug\net6.0\pycsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\obj\Debug\net6.0\pycsharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\obj\Debug\net6.0\pycsharp.AssemblyInfo.cs
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\obj\Debug\net6.0\pycsharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\obj\Debug\net6.0\pycsharp.dll
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\obj\Debug\net6.0\refint\pycsharp.dll
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\obj\Debug\net6.0\pycsharp.pdb
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\obj\Debug\net6.0\pycsharp.genruntimeconfig.cache
+C:\Users\user\Desktop\projects\Adafruit-Microcontroller-Projects\pycsharp\obj\Debug\net6.0\ref\pycsharp.dll
