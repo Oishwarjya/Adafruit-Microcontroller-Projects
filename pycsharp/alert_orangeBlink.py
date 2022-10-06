@@ -17,7 +17,7 @@ board = CircuitPlayground(port)
 
 # Define a rainbow of colors:
 colors = [
-    (255, 0, 0),  # Red color (components are red, green, blue)
+    (0, 255, 0),  # Green color (components are red, green, blue)
     (0, 0, 0),
     (0, 0, 0),
 ]  # Violet
